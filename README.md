@@ -18,6 +18,6 @@ To set up for the training course, go [here](https://github.com/Austin-Droids/An
 
 ## Contributors
 
- * [Sam Harris](https://github.com/nidhi1608) (Austin Droids Organizer and Instructor)
- * [Darran Kelinske](https://github.com/rogerhu) (Austin Droids Organizer and Instructor)
- * [Greg Matous](https://github.com/nickai) (Austin Droids Organizer)
+ * [Sam Harris](https://github.com/SamIAmHarris) (Austin Droids Organizer and Instructor)
+ * [Darran Kelinske](https://github.com/dazza5000) (Austin Droids Organizer and Instructor)
+ * [Greg Matous](https://github.com/dutchmo) (Austin Droids Organizer)
