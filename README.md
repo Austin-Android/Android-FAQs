@@ -7,12 +7,14 @@ This site will help you get started learning Android.
 ### [Our meetup Group](http://www.meetup.com/Austin-Android/)
 The meetup group lets you be aware of Android Training courses, as well as our meetups which present up-to-date Android content and provide networking opportunities.
 
-## [Keep track of local events with Twitter](https://twitter.com/AustinDroids)
+### [Our Twitter account](https://twitter.com/AustinDroids)
+We post updates about upcoming events and important happenings.
+
+### [Slack] (https://austindroids.slack.com/)
+Slack is a popular messenging system, with clients for Android, iOS and the web. Contact us to get an account.
 
 ## Training
-To set up for the training course, go here:
-
-
+To set up for the training course, go [here](https://github.com/Austin-Droids/Androlid-FAQs/wiki#TrainingSetup)
 
 ## Contributors
 
