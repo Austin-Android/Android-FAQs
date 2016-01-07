@@ -14,7 +14,7 @@ We post updates about upcoming events and important happenings.
 Slack is a popular messenging system, with clients for Android, iOS and the web. Contact us to get an account.
 
 ## Training
-To set up for the training course, go [here](https://github.com/Austin-Droids/Androlid-FAQs/wiki#TrainingSetup)
+To set up for the training course, go [here](https://github.com/Austin-Droids/Android-FAQs/wiki/TrainingSetup).
 
 ## Contributors
 
