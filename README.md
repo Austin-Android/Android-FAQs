@@ -3,10 +3,9 @@
 Welcome to the documentation repo for the Austin Droids organization!
 This site will help you get started learning Android.
 
-Our meetup Group
+## [Our meetup Group](http://www.meetup.com/Austin-Android/)
 The meetup group lets you be aware of Android Training courses, as well as our meetups which present up-to-date Android content and provide networking opportunities.
 
-[meetup](http://www.meetup.com/Austin-Android/)
 
 Twitter
 Keep track of local events
